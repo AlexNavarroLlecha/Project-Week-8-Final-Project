@@ -1,3 +1,11 @@
+your_project/ashrae-energy-prediction-Data/train.csv
+your_project/ashrae-energy-prediction-Data/test.csv
+your_project/ashrae-energy-prediction-Data/weather_train.csv
+your_project/ashrae-energy-prediction-Data/weather_test.csv
+your_project/ashrae-energy-prediction-Data/metadata.csv
+your_project/New_Data_Train/train_df_ML.csv
+
+
 # Created by https://www.gitignore.io/api/macos,python,jupyternotebooks
 # Edit at https://www.gitignore.io/?templates=macos,python,jupyternotebooks
 
