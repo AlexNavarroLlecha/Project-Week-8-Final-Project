@@ -33,6 +33,7 @@ The other 2 tables are for the test of the competition, which they are not going
 
 The size of the files are around 2GB, the three tables, which it make quite difficult to manage them in the git hub. And I had to create a clean data without nan values and reducing the size of the files, but the size of the new dataset for the prediction is 600MB, so there is still a problem with the size.
 
+The Datast is from [here](https://www.kaggle.com/c/ashrae-energy-prediction/overview). It has a size of 4GB in total aproximatly.
 
 ## Cleaning
 For the data clean, I start looking the Train table, which did not have nan values at all. It does have some row the full data, 20 M +. As the main objective was to get a dataframe to make able the prediction model. 
